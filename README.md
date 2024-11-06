@@ -95,4 +95,5 @@
   <a aria-label="Join our group for updates" href="https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-Incase of any issues, contact me  [here](t.me/EmmyHenz) via 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦.
+Incase of any issues, contact me t.me/EmmyHenz via 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦.
+## VERSION 1.1
