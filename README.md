@@ -84,7 +84,7 @@
     <a href="https://emmy-henz-tech.github.io/PHISHING-CODES-FOR-TERMUX/" class="box">𝐏𝐇𝐈𝐒𝐇𝐈𝐍𝐆 𝐋𝐈𝐒𝐓 𝐂𝐎𝐃𝐄𝐒</a>
     <a href="https://emmy-henz-tech.github.io/CAPCUT-PRO-ACC/" class="box">𝐂𝐀𝐏𝐂𝐔𝐓 𝐏𝐑𝐎</a>
     <a href="https://emmy-henz-tech.github.io/MOVIE-ZONE/" class="box">𝐌𝐎𝐕𝐈𝐄 𝐒𝐈𝐓𝐄𝐒</a>
-    <a href="https://www.mediafire.com/file/h39da6zwwhuep24/Dark_Cj7_Bomber.apk/file" class="box">𝐒𝐌𝐒 𝐁𝐎𝐌𝐁𝐄𝐑</a>
+    <a href="https://t.me/EMMYHENZTECHINFO/174" class="box">𝐒𝐌𝐒 𝐁𝐎𝐌𝐁𝐄𝐑</a>
     <a href="https://emmy-henz-tech.github.io/PREMIUM-APK/" class="box">𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐀𝐏𝐊𝐒</a>
     <a href="https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C" class="box">𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
   </div>
