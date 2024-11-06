@@ -86,6 +86,7 @@
     <a href="https://emmy-henz-tech.github.io/MOVIE-ZONE/" class="box">𝐌𝐎𝐕𝐈𝐄 𝐒𝐈𝐓𝐄𝐒</a>
     <a href="https://t.me/EMMYHENZTECHINFO/174" class="box">𝐒𝐌𝐒 𝐁𝐎𝐌𝐁𝐄𝐑</a>
     <a href="https://emmy-henz-tech.github.io/PREMIUM-APK/" class="box">𝐏𝐑𝐄𝐌𝐈𝐔𝐌 𝐀𝐏𝐊𝐒</a>
+    <a href="https://ytdl.giftedtech.my.id" class="box">𝐘𝐓 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃𝐄𝐑</a>
     <a href="https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C" class="box">𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
   </div>
 </body>
@@ -96,4 +97,6 @@
     <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 Incase of any issues, contact me t.me/EmmyHenz via 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦.
-## VERSION 1.1
+    =========================================
+    UPDATED BY EMMY HENZ AT 11;10PM 6,NOV,2024
+    ## VERSION 1.1
