@@ -9,7 +9,7 @@
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-image: url('https://i.ibb.co/MSt0WMz/IMG-20241105-WA0564.jpg');
+      background-image: url('');
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat;
@@ -62,7 +62,7 @@
 </head>
 <body>
   <div class="container">
-    <a href="" class="box">VİEW</a>
+    <a href="https://www.mediafire.com/file/cvy2upd6g7e54rn/VID-20241107-WA0340.mp4/file" class="box">VİD ON HOW TO CRASH WHATSAPP</a>
     
   </div>
 
@@ -72,11 +72,10 @@
     </a>
     Incase of any issues, contact me t.me/EmmyHenz via telegram.
   </p>
-  <p>=========================================<br>
-     UPDATED BY EMMY HENZ AT 11:10PM 6,NOV,2024<br>
+  <p>=========================================
      ## VERSION 1.1
   </p>
 </body>
 </html>
 
-## APP IS GONNA BE LIVE AT 6PM TODAY
+## APP IS LIVE
