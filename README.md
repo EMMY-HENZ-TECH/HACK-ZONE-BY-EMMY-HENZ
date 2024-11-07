@@ -62,7 +62,8 @@
 </head>
 <body>
   <div class="container">
-    <a href="https://www.mediafire.com/file/cvy2upd6g7e54rn/VID-20241107-WA0340.mp4/file" class="box">VİD TUTORİAL ON HOW TO CRASH WHATSAPP</a>
+    <a href="https://www.mediafire.com/file/cvy2upd6g7e54rn/VID-20241107-WA0340.mp4/file" class="box">VİD TUTORİAL ON HOW TO CRASH WHATSAPP SAVE TO WATCH</a>
+<a href="" class="box">VİDEO VİRUS ONLY DOWNLOAD AND SEND TO VİCTİM NOT SAVE TO WATCH</a>
     
   </div>
 
