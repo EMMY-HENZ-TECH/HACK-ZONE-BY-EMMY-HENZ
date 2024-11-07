@@ -4,6 +4,11 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐌𝐌𝐘+𝐇𝐄𝐍𝐙)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐀𝐏𝐏+𝐈𝐒+𝐆𝐎𝐍𝐍𝐀+𝐁𝐄+𝐋𝐈𝐕𝐄+𝐁𝐘+6𝐏𝐌)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐄𝐍𝐓𝐄𝐑+𝐓𝐇𝐄+𝐀𝐏𝐏+𝐁𝐘+𝐓𝐇𝐀𝐓+𝐓𝐈𝐌𝐄)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐅𝐎𝐑+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐇𝐀𝐂𝐊𝐈𝐍𝐆+𝐓𝐔𝐓𝐎𝐑𝐈𝐀𝐋)](https://git.io/typing-svg)
 <html lang="en">
 <head>
   <meta charset="UTF-8">
