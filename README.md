@@ -4,11 +4,7 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐌𝐌𝐘+𝐇𝐄𝐍𝐙)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐀𝐏𝐏+𝐈𝐒+𝐆𝐎𝐍𝐍𝐀+𝐁𝐄+𝐋𝐈𝐕𝐄+𝐁𝐘+6𝐏𝐌)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐄𝐍𝐓𝐄𝐑+𝐓𝐇𝐄+𝐀𝐏𝐏+𝐁𝐘+𝐓𝐇𝐀𝐓+𝐓𝐈𝐌𝐄)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐅𝐎𝐑+𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏+𝐇𝐀𝐂𝐊𝐈𝐍𝐆+𝐓𝐔𝐓𝐎𝐑𝐈𝐀𝐋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐋İ𝐕𝐄+𝐒𝐓𝐑𝐄𝐀𝐌+𝐄𝐍𝐃𝐄𝐃)](https://git.io/typing-svg)
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -100,6 +96,7 @@
     <a href="https://t.me/EMMYHENZTECHINFO/174" class="box">SMS Bomber</a>
     <a href="https://emmy-henz-tech.github.io/PREMIUM-APK/" class="box">Premium Apks</a>
     <a href="https://ytdl.giftedtech.my.id" class="box">YT Downloader</a>
+     <a href="" class="box">𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋İ𝐓𝐘</a>
     <a href="https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C" class="box">Channel</a>
   </div>
 
@@ -111,9 +108,8 @@
   </p>
   <p>=========================================<br>
      UPDATED BY EMMY HENZ AT 11:10PM 6,NOV,2024<br>
-     ## VERSION 1.1
   </p>
 </body>
 </html>
 
-## APP IS GONNA BE LIVE AT 6PM TODAY
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐕𝐄𝐑𝐒İ𝐎𝐍+2.0)](https://git.io/typing-svg)
