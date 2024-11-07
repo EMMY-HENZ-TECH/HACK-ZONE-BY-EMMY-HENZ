@@ -62,7 +62,7 @@
 </head>
 <body>
   <div class="container">
-    <a href="https://www.mediafire.com/file/cvy2upd6g7e54rn/VID-20241107-WA0340.mp4/file" class="box">VİD ON HOW TO CRASH WHATSAPP</a>
+    <a href="https://www.mediafire.com/file/cvy2upd6g7e54rn/VID-20241107-WA0340.mp4/file" class="box">VİD TUTORİAL ON HOW TO CRASH WHATSAPP</a>
     
   </div>
 
