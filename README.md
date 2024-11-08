@@ -96,7 +96,7 @@
     <a href="https://t.me/EMMYHENZTECHINFO/174" class="box">SMS Bomber</a>
     <a href="https://emmy-henz-tech.github.io/PREMIUM-APK/" class="box">Premium Apks</a>
     <a href="https://ytdl.giftedtech.my.id" class="box">YT Downloader</a>
-     <a href="" class="box">𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋İ𝐓𝐘</a>
+     <a href="https://emmyhenz-tech.github.io/CHECK-YOUR-PERSONAL-TY/" class="box">𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋İ𝐓𝐘</a>
     <a href="https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C" class="box">Channel</a>
   </div>
 
