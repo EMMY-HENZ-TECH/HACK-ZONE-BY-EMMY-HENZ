@@ -99,9 +99,7 @@
      <a href="https://emmyhenz-tech.github.io/CHECK-YOUR-PERSONAL-TY/" class="box">𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋İ𝐓𝐘</a>
     <a href="https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C" class="box">Channel</a>
   </div>
-   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=500&height=60&lines=DEPLOY+BOTS+FREE+HERE👇!)](https://git.io/typing-svg)
-
+   😜😜🔥👇❤🎁✅
 <html lang="en">
 <head>
   <meta charset="UTF-8">
