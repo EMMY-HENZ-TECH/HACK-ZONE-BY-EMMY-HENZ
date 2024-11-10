@@ -99,7 +99,7 @@
      <a href="https://emmyhenz-tech.github.io/CHECK-YOUR-PERSONAL-TY/" class="box">𝐏𝐄𝐑𝐒𝐎𝐍𝐀𝐋İ𝐓𝐘</a>
     <a href="https://whatsapp.com/channel/0029VangYOt96H4JhFarL10C" class="box">Channel</a>
   </div>
-   😜😜🔥👇❤🎁✅
+   😜😜🔥👇❤🎁✅😜🔥🎁✅✅🎁👇👇🎁🔥🎁😜✅❤😜✅
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -153,7 +153,7 @@
 </head>
 <body>
   <div class="container">
-    <a href="https://emmyhenz-tech.github.io/PAGE-2/" class="box">DEPLOY WHATSAPP BOT FREE</a>
+    <a href="https://emmyhenz-tech.github.io/DEPLOY-YOUR-BOT/" class="box">DEPLOY WHATSAPP BOT FREE</a>
   </div>
 </body>
 </html>
