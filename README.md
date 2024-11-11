@@ -4,7 +4,7 @@
 
    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐌𝐌𝐘+𝐇𝐄𝐍𝐙)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐋İ𝐕𝐄+𝐒𝐓𝐑𝐄𝐀𝐌+𝐄𝐍𝐃𝐄𝐃)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=SCROLL+DOWN+TO+GET+A+BOT)](https://git.io/typing-svg)
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -153,7 +153,7 @@
 </head>
 <body>
   <div class="container">
-    <a href="https://emmyhenz-tech.github.io/DEPLOY-YOUR-BOT/" class="box">DEPLOY WHATSAPP BOT FREE</a>
+    <a href="https://emmyhenz-tech.github.io/GET-YOUR-BOT-/" class="box">DEPLOY WHATSAPP BOT FREE</a>
   </div>
 </body>
 </html>
